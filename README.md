@@ -74,7 +74,4 @@ Copy code
 - Start chatting with other users in real-time.
 - Enjoy the seamless experience of instant messaging!
 
-## Contributors
-
-- [Abhishek](https://github.com/abhishekkumar188)
 
