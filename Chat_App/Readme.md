@@ -74,13 +74,6 @@ Copy code
 - Start chatting with other users in real-time.
 - Enjoy the seamless experience of instant messaging!
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
